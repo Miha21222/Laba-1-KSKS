@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Laba 1 KSKS (client)\bin\Debug\net7.0\Laba 1 KSKS (client).exe
+C:\Users\user\source\repos\Laba 1 KSKS (client)\bin\Debug\net7.0\Laba 1 KSKS (client).deps.json
+C:\Users\user\source\repos\Laba 1 KSKS (client)\bin\Debug\net7.0\Laba 1 KSKS (client).runtimeconfig.json
+C:\Users\user\source\repos\Laba 1 KSKS (client)\bin\Debug\net7.0\Laba 1 KSKS (client).dll
+C:\Users\user\source\repos\Laba 1 KSKS (client)\bin\Debug\net7.0\Laba 1 KSKS (client).pdb
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\Laba 1 KSKS (client).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\Laba 1 KSKS (client).AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\Laba 1 KSKS (client).AssemblyInfo.cs
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\Laba 1 KSKS (client).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\Laba 1 KSKS (client).dll
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\refint\Laba 1 KSKS (client).dll
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\Laba 1 KSKS (client).pdb
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\Laba 1 KSKS (client).genruntimeconfig.cache
+C:\Users\user\source\repos\Laba 1 KSKS (client)\obj\Debug\net7.0\ref\Laba 1 KSKS (client).dll
